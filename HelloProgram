@@ -5,8 +5,8 @@ void main()
   cout<<"Sample Hello Program";
   cout<<"Manisha's Line: ";
   cout<<"Pratiksha's Line:";
-  cout<<"Mona's Line:";
-  cout<<"Gopal's Line: Hello To Every One... Good Morning To All";
+  cout<<"Mona's Line:hi gopu....got dis";
+  cout<<"Gopal's Line:";
   cout<<"Sagar's Line:";
   cout<<"Vishawas's Line: ";
 }
